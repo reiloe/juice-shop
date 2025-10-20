@@ -19,7 +19,7 @@ This error is already known from another challenge, as is the solution: **Poison
 
 ## Solution
 
-After clicking the **easter.egg_** file, add **%2500.md** at the end of the URL and hit Enter. The file will be downloaded immediately.  
+After clicking the **easter.egg** file, add **%2500.md** at the end of the URL and hit Enter. The file will be downloaded immediately.  
 
 ![success](./img/download_success.png)  
 
