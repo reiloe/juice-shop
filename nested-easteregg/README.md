@@ -2,7 +2,7 @@
 
 Apply some advanced cryptanalysis to find the real easter egg.
 
-**Type:** Cryptographic Issus  
+**Type:** Cryptographic Issues  
 **Difficulty:** 4 Stars
 
 >[!CAUTION]  

@@ -2,7 +2,7 @@
 
 Find the hidden easter egg.
 
-**Type:** Broken Access Control
+**Type:** Broken Access Control  
 **Difficulty:** 4 Stars
 
 ## Procedure
