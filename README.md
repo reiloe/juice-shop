@@ -21,9 +21,9 @@ This repository contains solutions to some of the challenges in the OWASP Juice 
 
 1. [Setup](#)  
    1.1. [Local on Kali](setup/local/README.md)  
-   1.2. [Mac Host, Kali, VM, Juice Shop Docker Container](setup/mac/README.md)  
-   1.3. [Linux Host, Kali, VM, Juice Shop Docker Container](setup/linux/README.md)  
-   1.4. [Windows Host, Kali, VM, Juice Shop Docker Container](setup/windows/README.md)
+   1.2. [Mac Host, Kali VM, Juice Shop Docker Container](setup/mac/README.md)  
+   1.3. [Linux Host, Kali VM, Juice Shop Docker Container](setup/linux/README.md)  
+   1.4. [Windows Host, Kali VM, Juice Shop Docker Container](setup/windows/README.md)
 2. [Challenges](#)  
    2.1. [Zero Stars](./challenges/zero-stars-alternative-solution/README.md)  
    2.2. [Visual Geo Stalking](./challenges/visual-geo-stalking/README.md)  
