@@ -2,7 +2,7 @@
 
 This repository contains solutions to some of the challenges in the OWASP Juice Shop.
 
-> [!INFO]  
+> [!IMPORTANT]  
 > The **OWASP Juice Shop** is a deliberately insecure web application developed by the OWASP Foundation **for educational and testing purposes**.  
 > It’s designed to help security enthusiasts, developers, and penetration testers learn about **common web vulnerabilities** such as SQL injection, XSS, and broken authentication.  
 > The platform provides a safe environment to practice **ethical** hacking techniques and to understand how to identify and fix security flaws.  
