@@ -43,3 +43,6 @@ And the challenge is solved.
 
 ![solved](./img/solved.png)
 
+## Solution video
+
+Here you will find the solution video: [Loom](https://www.loom.com/share/908dcd4e4c154d00b3400f2baa42c27f?sid=b1764ba6-c98d-4274-afdd-1109334ff488)

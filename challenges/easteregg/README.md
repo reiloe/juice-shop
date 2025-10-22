@@ -30,3 +30,7 @@ Now you can open the downloaded file
 and the challenge is solved.
 
 ![solved](./img/solved.png)  
+
+## Solution video
+
+Here you will find the solution video: [Loom](https://www.loom.com/share/0400adc882234c30a19dfb019ffbde47?sid=bbaa0d0b-b631-4ade-8648-881ad4cdb9a8)

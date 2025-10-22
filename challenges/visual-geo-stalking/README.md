@@ -70,3 +70,7 @@ So go back to the “Forgot Password” form, enter Emma's login and the name on
 Click on the “Change” button and voilà, the challenge is solved.  
 
 ![solved](./img/solved.png)  
+
+## Solution video
+
+Here you will find the solution video: [Loom](https://www.loom.com/share/953f9cd6f1514805a9849913c095de2a?sid=e1a0f834-bda1-4d6b-838d-2aa04dd70a75)

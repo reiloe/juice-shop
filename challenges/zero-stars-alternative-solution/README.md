@@ -44,3 +44,7 @@ If you remove both, the button will be enabled and can be clicked.
 
 Now you can click on the button and the challenge is solved.
 ![solved](./img/solved.png)  
+
+## Solution video
+
+Here you will find the solution video: [Loom](https://www.loom.com/share/87e39008707743cb8c8ee13899d6550a?sid=e5a48a77-4602-4acb-8943-ac40d47e91c3)
