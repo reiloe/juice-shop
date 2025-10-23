@@ -13,7 +13,7 @@ This repository contains solutions to some of the challenges in the OWASP Juice 
 
 ---
 
-## Table of content
+## Table of Contents
 
 1. [Setup](#)  
    1.1. [Local on Kali](setup/local/README.md)  
