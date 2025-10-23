@@ -15,7 +15,7 @@ This repository contains solutions to some of the challenges in the OWASP Juice 
 
 ## Table of Contents
 
-1. [Setup](#)  
+1. Setup
    1.1. [Local on Kali](setup/local/README.md)  
    1.2. [Mac Host, Kali VM, Juice Shop Docker Container](setup/mac/README.md)  
    1.3. [Linux Host, Kali VM, Juice Shop Docker Container](setup/linux/README.md)  
